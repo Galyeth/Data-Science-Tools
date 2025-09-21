@@ -1,27 +1,17 @@
-📊 Data Science Ecosystem
+# 📊 Data Science Tools
 
-Este repositorio contiene mi notebook DataScienceEcosystem.ipynb, desarrollado como parte de una práctica de Jupyter Notebooks.
+Este repositorio contiene el notebook **DataScienceEcosystem.ipynb**, elaborado como parte de un ejercicio práctico.
 
-📝 Contenido
+## 📝 Contenido
+- Lenguajes más usados en Ciencia de Datos  
+- Librerías comunes en Data Science  
+- Herramientas de desarrollo open source  
+- Ejemplos básicos de expresiones aritméticas en Python  
+- Uso de celdas Markdown para documentación  
 
-El notebook incluye:
+## 🚀 Tecnologías
+- Python  
+- Jupyter Notebook  
 
-Lenguajes más usados en Ciencia de Datos.
-
-Librerías comunes en Data Science.
-
-Herramientas de desarrollo open source.
-
-Ejemplos básicos de expresiones aritméticas en Python.
-
-Uso de celdas Markdown para documentar.
-
-🚀 Tecnologías
-
-Python
-
-Jupyter Notebook
-
-👩‍💻 Autor
-
+## 👩‍💻 Autor
 Magaly Yefrith Medina Vilca
